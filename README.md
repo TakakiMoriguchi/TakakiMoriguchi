@@ -11,8 +11,8 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <div style="margin: 0 auto;">
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="display: flex; gap: 16px;">
     <img src="https://yourtest.app/assets/16p/avatars/entj-commander.svg" width="33%" />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="49%" />
   </div>
