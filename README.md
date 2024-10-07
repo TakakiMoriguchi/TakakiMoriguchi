@@ -1,4 +1,4 @@
-## Web Developer & UI/UX Designer
+![image](https://github.com/user-attachments/assets/6fd83b91-13a6-46c9-b436-24ac3184d451)## Web Developer & UI/UX Designer
 - Web Development
 - UI/UX Design
 - Graphic Design
@@ -12,6 +12,6 @@
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://d.kuku.lu/7jsv7gtsv" alt="Your Image" width="50%" />
+  <img src="https://www.canva.com/design/DAGS5AEVpx0/-AuDpRnsMCygMDnasL0JiQ/edit?utm_content=DAGS5AEVpx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Your Image" width="50%" />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="50%" />
 </div>
