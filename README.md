@@ -11,4 +11,7 @@
 
 ---
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique={true|1|on|yes})
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://d.kuku.lu/7jsv7gtsv" alt="Your Image" width="50%" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="50%" />
+</div>
