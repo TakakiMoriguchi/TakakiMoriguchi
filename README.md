@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6fd83b91-13a6-46c9-b436-24ac3184d451)## Web Developer & UI/UX Designer
+## Web Developer & UI/UX Designer
 - Web Development
 - UI/UX Design
 - Graphic Design
