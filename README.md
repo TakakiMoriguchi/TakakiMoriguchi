@@ -3,8 +3,8 @@
 - UI/UX Design
 - Graphic Design
 
-### Favorite Languages:
-![](https://skillicons.dev/icons?i=typescript,python,rust)
+### Favorite Languages & Flameworks:
+![](https://skillicons.dev/icons?i=typescript,react,python,fastapi,rust)
 
 ### Other Skills:
 ![](https://skillicons.dev/icons?i=docker,figma,illustrator)
