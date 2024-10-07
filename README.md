@@ -13,5 +13,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://www.canva.com/design/DAGS5AEVpx0/-AuDpRnsMCygMDnasL0JiQ/edit?utm_content=DAGS5AEVpx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="49%" />
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique={true|1|on|yes})
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="49%" />
 </div>
