@@ -12,6 +12,6 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-content: start;">
-  <img src="https://yourtest.app/assets/16p/avatars/entj-commander.svg" width="49%" />
+  <img src="https://yourtest.app/assets/16p/avatars/entj-commander.svg" height="200px" />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="49%" />
 </div>
