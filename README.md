@@ -14,12 +14,12 @@
 ### Personality
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="display: flex;">
-    <div>
+    <div width="33%">
       ENTJ
-      <img src="https://yourtest.app/assets/16p/avatars/entj-commander.svg" width="33%" />
+      <img src="https://yourtest.app/assets/16p/avatars/entj-commander.svg" />
     </div>
-    <div>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" width="49%" />
+    <div width="49%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=21hjina3d6m43a6rsoba7vjqy&unique=true" alt="Spotify recently played" />
     <div>
   </div>
 </div>
