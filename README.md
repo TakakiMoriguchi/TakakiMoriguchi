@@ -4,7 +4,7 @@
 - Graphic Design
 
 ### Favorite Languages & Flameworks:
-![](https://skillicons.dev/icons?i=typescript,react,python,fastapi,rust)
+![](https://skillicons.dev/icons?i=typescript,react,python,fastapi,go,rust)
 
 ### Other Skills:
 ![](https://skillicons.dev/icons?i=docker,figma,illustrator)
