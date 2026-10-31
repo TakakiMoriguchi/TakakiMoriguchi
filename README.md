@@ -1,15 +1,19 @@
-## Web Developer & UI/UX Designer
+## FDE / Web Developer & UI/UX Designer
 - Web Development
 - UI/UX Design
 - Graphic Design
+- Forward Deployed Engineering
 
-### Favorite Languages & Flameworks:
-![](https://skillicons.dev/icons?i=typescript,react,python,fastapi,go)
+### Favorite Languages & Frameworks:
+![](https://skillicons.dev/icons?i=typescript,react,python,fastapi,go,elixir)
 
 ### Other Skills:
 ![](https://skillicons.dev/icons?i=docker,figma,illustrator)
 
 ---
+
+### My Music
+[promptedbytkk.stream](https://www.promptedbytkk.stream)
 
 ### Personality
 <div style="display: flex; justify-content: center; width: 100%;">
