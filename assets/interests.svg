@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" fill="none">
+  <title>Interests</title>
+  <style>
+    text { font-family: 'Share Tech Mono', 'Courier New', monospace; fill: #ff2a2a; }
+    .dim { fill: #8a1a1a; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .scan { animation: scan 4s linear infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes scan { from { transform: translateY(0); } to { transform: translateY(240px); } }
+  </style>
+  <defs>
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ff2a2a" opacity="0.06"/>
+    </pattern>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff2a2a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff2a2a" stop-opacity="0.18"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="480" height="240"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="480" height="240" fill="#000"/>
+    <rect width="480" height="240" fill="url(#lines)"/>
+    <rect class="scan" y="-40" width="480" height="40" fill="url(#beam)"/>
+  </g>
+
+  <!-- corner brackets -->
+  <g stroke="#ff2a2a" stroke-width="2">
+    <path d="M8 28V8h20M452 8h20v20M472 212v20h-20M28 232H8v-20"/>
+  </g>
+
+  <text x="24" y="34" font-size="12" class="dim">// INTEREST DATABASE</text>
+  <text x="456" y="34" font-size="12" class="dim" text-anchor="end">2 CATEGORIES</text>
+
+  <g font-size="14">
+    <text x="24" y="62" letter-spacing="2">[ READING ]</text>
+    <text x="24" y="88">&gt; <tspan class="dim">BEHAVIORAL ECONOMICS</tspan></text>
+    <text x="24" y="110">&gt; <tspan class="dim">PSYCHOLOGY</tspan></text>
+    <text x="24" y="132">&gt; <tspan class="dim">COGNITIVE BIASES</tspan></text>
+
+    <text x="228" y="62" letter-spacing="2">[ MANGA ]</text>
+    <text x="228" y="88">&gt; <tspan class="dim">JOJO'S BIZARRE ADVENTURE</tspan></text>
+    <text x="228" y="110">&gt; <tspan class="dim">FULLMETAL ALCHEMIST</tspan></text>
+    <text x="228" y="132">&gt; <tspan class="dim">SPACE BROTHERS</tspan></text>
+  </g>
+
+  <line x1="24" y1="152" x2="456" y2="152" stroke="#8a1a1a"/>
+
+  <text x="24" y="182" font-size="13">CORE BELIEF: <tspan class="dim">ADLERIAN PSYCHOLOGY</tspan></text>
+  <text x="24" y="206" font-size="13">STATUS: <tspan class="dim">ANALYZING HUMAN BEHAVIOR</tspan><tspan class="cursor">_</tspan></text>
+</svg>
