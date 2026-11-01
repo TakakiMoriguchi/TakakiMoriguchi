@@ -28,3 +28,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1500&color=FF2A2A&center=true&vCenter=true&width=400&lines=%3E+END+OF+TRANSMISSION_" alt="end" />
 </p>
+
