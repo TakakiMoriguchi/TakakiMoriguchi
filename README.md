@@ -21,7 +21,7 @@
 
 ## ▌ Personality & Interests
 <p align="center">
-  <a href="https://www.16personalities.com/entj-personality"><img src="assets/entj.svg" alt="ENTJ - The Commander" width="49%" /></a>
+  <a href="https://github.com/TakakiMoriguchi/16types-crest"><img src="assets/entj.svg" alt="ENTJ - The Commander" width="49%" /></a>
   <img src="assets/interests.svg" alt="Core belief: Adlerian psychology. Interests: behavioral economics, psychology, cognitive biases / JoJo's Bizarre Adventure, Fullmetal Alchemist, Space Brothers" width="49%" />
 </p>
 

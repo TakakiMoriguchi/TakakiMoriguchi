@@ -46,11 +46,7 @@
     <text x="250" y="210">J <tspan class="dim">JUDGING</tspan></text>
   </g>
 
-  <!-- target reticle -->
-  <g stroke="#ff2a2a" stroke-width="1.5" opacity="0.8">
-    <circle cx="396" cy="96" r="38"/>
-    <circle cx="396" cy="96" r="22" stroke-dasharray="4 4"/>
-    <path d="M396 50v20M396 122v20M350 96h20M422 96h20"/>
-  </g>
-  <circle cx="396" cy="96" r="3" fill="#ff2a2a" class="cursor"/>
+  <!-- crest: ENTJ 04-13 from https://github.com/TakakiMoriguchi/16types-crest -->
+  <svg x="356" y="50" width="80" height="80" viewBox="0 0 100 100"><defs><mask id="crest-g0" maskUnits="userSpaceOnUse" x="-10" y="-10" width="120" height="120"><rect x="-10" y="-10" width="120" height="120" fill="#fff"/><g fill="#000"><circle cx="25" cy="25" r="3.4"/><circle cx="25" cy="75" r="3.4"/><circle cx="75" cy="75" r="3.4"/><circle cx="75" cy="25" r="3.4"/></g></mask><mask id="crest-g1" maskUnits="userSpaceOnUse" x="-10" y="-10" width="120" height="120"><rect x="-10" y="-10" width="120" height="120" fill="#fff"/><g fill="#000"><circle cx="75" cy="75" r="3.4"/><circle cx="25" cy="25" r="3.4"/><circle cx="75" cy="25" r="3.4"/><circle cx="25" cy="75" r="3.4"/></g></mask><mask id="crest-g2" maskUnits="userSpaceOnUse" x="-10" y="-10" width="120" height="120"><rect x="-10" y="-10" width="120" height="120" fill="#fff"/><g fill="#000"><circle cx="75" cy="25" r="3.4"/><circle cx="75" cy="75" r="3.4"/><circle cx="25" cy="75" r="3.4"/><circle cx="25" cy="25" r="3.4"/></g></mask></defs><g fill="none" stroke="#fd1134" stroke-width="1.6" stroke-linejoin="round"><g mask="url(#crest-g0)"><path d="M25 0V100M75 0V100"/></g><g mask="url(#crest-g1)"><path d="M0 0L100 100M100 0L0 100"/></g><g mask="url(#crest-g2)"><path d="M50 0L100 50L50 100L0 50Z"/></g><rect x="25" y="25" width="50" height="50" rx="2"/></g></svg>
+  <text x="396" y="152" font-size="9" class="dim" text-anchor="middle" letter-spacing="1">16TYPES-CREST</text>
 </svg>
