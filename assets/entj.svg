@@ -31,8 +31,8 @@
     <path d="M8 28V8h20M452 8h20v20M472 212v20h-20M28 232H8v-20"/>
   </g>
 
-  <text x="24" y="34" font-size="12" class="dim">// PERSONALITY PROFILE</text>
-  <text x="456" y="34" font-size="12" class="dim" text-anchor="end">MBTI</text>
+  <text x="24" y="34" font-size="12" class="dim">// 16PERSONALITIES</text>
+  <text x="456" y="34" font-size="12" class="dim" text-anchor="end">PERSONALITY TYPE</text>
 
   <text x="24" y="112" class="big">ENTJ</text>
   <text x="26" y="140" font-size="16" letter-spacing="3">THE COMMANDER<tspan class="cursor">_</tspan></text>
