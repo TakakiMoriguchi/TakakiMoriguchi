@@ -16,7 +16,7 @@
 
 ## ▌ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,go,elixir,figma&theme=dark" alt="tech stack" /><img src="assets/affinity.svg" alt="Affinity" /><img src="assets/claude.svg" alt="Claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,go,elixir,figma,affinity,claude&theme=dark" alt="tech stack" />
 </p>
 
 ## ▌ Personality & Interests
